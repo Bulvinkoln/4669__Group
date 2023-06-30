@@ -9,3 +9,5 @@
 **git log --oneline** - сокращенный просмотр изменений
 
 **git checkout branch_name** - переход на другую ветку
+
+**git checkout -b branch_name** - создает ветку и переходит на нееы
