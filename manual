@@ -1,0 +1,6 @@
+Инструкция
+1 git brach new_branch_manual
+2 git checkout new_branch_manual
+3 создать файл заполнить
+4 git add manual
+5 git commit -m "Manual"
